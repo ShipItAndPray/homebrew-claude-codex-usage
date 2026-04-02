@@ -1,6 +1,6 @@
 cask "claude-codex-usage" do
-  version "1.3"
-  sha256 "fa57f61352b23cf9ef9131a863fbfe2913cc0b5c7e7d9d1b9eba5f52baf14264"
+  version "1.4"
+  sha256 "a7c23c4826bd80baa96f65eac1c148e81cfa31a263ffbc62f423972695b7aaa1"
 
   url "https://github.com/ShipItAndPray/claude-codex-usage/releases/download/v#{version}/ClaudeCodexUsage-#{version}.zip",
       verified: "github.com/ShipItAndPray/claude-codex-usage/"
